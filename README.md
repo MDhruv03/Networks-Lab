@@ -1,2 +1,2 @@
 # Networks-Lab
-VI th Semester Networks Programming Lab
+VIth Semester Networks Programming Lab
